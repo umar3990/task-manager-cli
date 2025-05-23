@@ -1,0 +1,4 @@
+## File: .gitignore
+__pycache__/
+*.pyc
+tasks.json
